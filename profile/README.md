@@ -16,5 +16,6 @@ Wir möchten jungen Generationen mit auf den Weg geben, dass ein Serverstart gew
 # Was haben wir vor?
 
 Wir wollen viele Discord Bots für Discord erstellen, welche Spaß garantieren und auch Öffentlich sind.
+
 Unsere Bots:
 - <a href="https://discord.gg/JpStcqah5y">PZ🎫Ticket#3766<a>
