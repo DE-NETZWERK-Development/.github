@@ -18,4 +18,4 @@ Wir möchten jungen Generationen mit auf den Weg geben, dass ein Serverstart gew
 Wir wollen viele Discord Bots für Discord erstellen, welche Spaß garantieren und auch Öffentlich sind.
 
 Unsere Bots:
-- <a href="https://discord.gg/JpStcqah5y">PZ🎫Ticket#3766<a>
+- <img src="" alt="Bot Logo" title="Bot Logo"> <a href="https://discord.gg/JpStcqah5y">PZ🎫Ticket#3766<a> -> <a href="https://github.com/PLANET-ZER0-Development/PZ-Ticket">Repositorie</a>
