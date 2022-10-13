@@ -4,7 +4,7 @@
 
 Hier können alle 🪐 | PLΛNΞT ZΞR0 Developer ihre Scripte Hochladen in Private oder auch Öffentliche Projekte wodurch das Arbeiten erleichtert wird und der merge auf den Host Server vereinfacht wird.
 
-Zu <a href="https://discord.gg/JpStcqah5y">🪐 | PLΛNΞT ZΞR0<a>
+Zu <a href="https://discord.gg/vbtxpv47w7">🪐 | PLΛNΞT ZΞR0<a>
 
 # Wie es zu 🪐 | PLΛNΞT ZΞR0 gekommen ist
 
