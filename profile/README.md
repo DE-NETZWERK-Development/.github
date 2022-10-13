@@ -20,7 +20,7 @@ Wir wollen viele Discord Bots für Discord erstellen, welche Spaß garantieren u
 Unsere Bots:
 | Logo | Name | Repositorie |
 | --- | --- | --- |
-<img src="https://github.com/PLANET-ZER0-Development/.github/blob/6ab597a6713407ce58e8637d3574433c8f6d94ac/profile/230403.png" alt="Bot Logo" title="Bot Logo"> | <a href="https://discord.gg/JpStcqah5y">PZ🎫Ticket#3766<a> | <a href="https://github.com/PLANET-ZER0-Development/PZ-Ticket">Repositorie</a>
+<img src="https://github.com/PLANET-ZER0-Development/.github/blob/412aaddd3fd44e9772d3a14a707c53ffb871ce60/profile/230403.png" alt="Bot Logo" title="Bot Logo"> | <a href="https://discord.gg/JpStcqah5y">PZ🎫Ticket#3766<a> | <a href="https://github.com/PLANET-ZER0-Development/PZ-Ticket">Repositorie</a>
   <img src="https://github.com/PLANET-ZER0-Development/.github/blob/6ab597a6713407ce58e8637d3574433c8f6d94ac/profile/344403.png" alt="Bot Logo" title="Bot Logo"> | <a href="https://discord.gg/JpStcqah5y">PZ🌍Global#3246<a> | <a href="">Repositorie</a>
   <img src="https://github.com/PLANET-ZER0-Development/.github/blob/6ab597a6713407ce58e8637d3574433c8f6d94ac/profile/Present-Gift-Vector-SVG-Icon-9df3.png" alt="Bot Logo" title="Bot Logo"> | <a href="https://discord.gg/JpStcqah5y">PZ🎁Gift#0715<a> | <a href="">Repositorie</a>
   <img src="https://github.com/PLANET-ZER0-Development/.github/blob/6ab597a6713407ce58e8637d3574433c8f6d94ac/profile/1f3ad.png" alt="Bot Logo" title="Bot Logo"> | <a href="https://discord.gg/JpStcqah5y">PZ🎭Unity#4709<a> | <a href="">Repositorie</a>
