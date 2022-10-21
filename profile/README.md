@@ -1,4 +1,4 @@
-# 🪐 | PLΛNΞT ZΞR0 Development
+# 🤖 | DE NETZWERK Development
 
 <img src="https://github.com/PLANET-ZER0-Development/.github/blob/4f579f203797fd56be1f46a9fa74eb00124b91d9/profile/Logo.png" alt="Alt-Text" title="Logo" />
 
