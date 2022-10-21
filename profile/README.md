@@ -6,7 +6,7 @@ Hier können alle 🪐 | PLΛNΞT ZΞR0 Developer ihre Scripte Hochladen in Priv
 
 Zu <a href="https://discord.gg/b5SuaEzwvG">🪐 | PLΛNΞT ZΞR0<a>
 
-# Wie es zu 🪐 | PLΛNΞT ZΞR0 gekommen ist
+# Wie es zu 🤖 | DE NETZWERK gekommen ist
 
 Wir saßen nachts, kaffeetrinkend, in einem Sprachkanal und schmiedeten Ideen für ein Projekt, welches wir starten möchten. 
 Es sollte um das Thema Weltraum gehen und so kamen wir, relativ schnell, zur Erkenntnis, dass Discord die perfekte Plattform dafür wäre. 
